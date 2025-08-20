@@ -1,1 +1,1 @@
-# gitpractice
+edupals
